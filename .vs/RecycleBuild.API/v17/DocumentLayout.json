@@ -3,60 +3,20 @@
   "WorkspaceRootPath": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|d:\\evolu\u00E7\u00E3otech\\annyprojects\\recyclebuilding\\recyclebuild.api\\controllers\\reciclagem.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|solutionrelative:controllers\\reciclagem.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|d:\\evolu\u00E7\u00E3otech\\annyprojects\\recyclebuilding\\recyclebuild.api\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|solutionrelative:dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|d:\\evolu\u00E7\u00E3otech\\annyprojects\\recyclebuilding\\recyclebuild.api\\controllers\\auth.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|solutionrelative:controllers\\auth.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|d:\\evolu\u00E7\u00E3otech\\annyprojects\\recyclebuilding\\recyclebuild.api\\models\\usuario.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|solutionrelative:models\\usuario.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|d:\\evolu\u00E7\u00E3otech\\annyprojects\\recyclebuilding\\recyclebuild.api\\dto\\lixorecicladodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|solutionrelative:dto\\lixorecicladodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|d:\\evolu\u00E7\u00E3otech\\annyprojects\\recyclebuilding\\recyclebuild.api\\dto\\perfilusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|solutionrelative:dto\\perfilusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|d:\\evolu\u00E7\u00E3otech\\annyprojects\\recyclebuilding\\recyclebuild.api\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|d:\\evolu\u00E7\u00E3otech\\annyprojects\\recyclebuilding\\recyclebuild.api\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|solutionrelative:automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|d:\\evolu\u00E7\u00E3otech\\annyprojects\\recyclebuilding\\recyclebuild.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|d:\\evolu\u00E7\u00E3otech\\annyprojects\\recyclebuilding\\recyclebuild.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|d:\\evolu\u00E7\u00E3otech\\annyprojects\\recyclebuilding\\recyclebuild.api\\controllers\\base.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|solutionrelative:controllers\\base.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|d:\\evolu\u00E7\u00E3otech\\annyprojects\\recyclebuilding\\recyclebuild.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|d:\\evolu\u00E7\u00E3otech\\annyprojects\\recyclebuilding\\recyclebuild.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|d:\\evolu\u00E7\u00E3otech\\annyprojects\\recyclebuilding\\recyclebuild.api\\data\\appdbcontext.data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|solutionrelative:data\\appdbcontext.data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|d:\\evolu\u00E7\u00E3otech\\annyprojects\\recyclebuilding\\recyclebuild.api\\models\\lixoreciclado.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|solutionrelative:models\\lixoreciclado.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|d:\\evolu\u00E7\u00E3otech\\annyprojects\\recyclebuilding\\recyclebuild.api\\dto\\topdoadoresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|solutionrelative:dto\\topdoadoresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|d:\\evolu\u00E7\u00E3otech\\annyprojects\\recyclebuilding\\recyclebuild.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97234BAE-50F3-4D79-9491-A0C75B320245}|RecycleBuild.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,172 +62,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-03T21:54:38.134Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AutoMapperProfile.cs",
-              "DocumentMoniker": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\AutoMapper\\AutoMapperProfile.cs",
-              "RelativeDocumentMoniker": "AutoMapper\\AutoMapperProfile.cs",
-              "ToolTip": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\AutoMapper\\AutoMapperProfile.cs",
-              "RelativeToolTip": "AutoMapper\\AutoMapperProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T21:47:51.142Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAIwG8AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T21:45:12.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PerfilUsuarioDto.cs",
-              "DocumentMoniker": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\DTO\\PerfilUsuarioDto.cs",
-              "RelativeDocumentMoniker": "DTO\\PerfilUsuarioDto.cs",
-              "ToolTip": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\DTO\\PerfilUsuarioDto.cs",
-              "RelativeToolTip": "DTO\\PerfilUsuarioDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T21:37:39.087Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Base.Controller.cs",
-              "DocumentMoniker": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\Controllers\\Base.Controller.cs",
-              "RelativeDocumentMoniker": "Controllers\\Base.Controller.cs",
-              "ToolTip": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\Controllers\\Base.Controller.cs",
-              "RelativeToolTip": "Controllers\\Base.Controller.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T21:24:16.529Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TopDoadoresDto.cs",
-              "DocumentMoniker": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\DTO\\TopDoadoresDto.cs",
-              "RelativeDocumentMoniker": "DTO\\TopDoadoresDto.cs",
-              "ToolTip": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\DTO\\TopDoadoresDto.cs",
-              "RelativeToolTip": "DTO\\TopDoadoresDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T21:22:57.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LixoRecicladoDto.cs",
-              "DocumentMoniker": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\DTO\\LixoRecicladoDto.cs",
-              "RelativeDocumentMoniker": "DTO\\LixoRecicladoDto.cs",
-              "ToolTip": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\DTO\\LixoRecicladoDto.cs",
-              "RelativeToolTip": "DTO\\LixoRecicladoDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T21:21:04.601Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\DTO\\LoginDto.cs",
-              "RelativeDocumentMoniker": "DTO\\LoginDto.cs",
-              "ToolTip": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\DTO\\LoginDto.cs",
-              "RelativeToolTip": "DTO\\LoginDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T21:16:34.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsuarioDto.cs",
-              "DocumentMoniker": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\DTO\\UsuarioDto.cs",
-              "RelativeDocumentMoniker": "DTO\\UsuarioDto.cs",
-              "ToolTip": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\DTO\\UsuarioDto.cs",
-              "RelativeToolTip": "DTO\\UsuarioDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T21:11:32.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Reciclagem.Controller.cs",
-              "DocumentMoniker": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\Controllers\\Reciclagem.Controller.cs",
-              "RelativeDocumentMoniker": "Controllers\\Reciclagem.Controller.cs",
-              "ToolTip": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\Controllers\\Reciclagem.Controller.cs",
-              "RelativeToolTip": "Controllers\\Reciclagem.Controller.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAuwCMAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T20:35:14.988Z",
+              "WhenOpened": "2024-11-24T22:55:03.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Auth.Controller.cs",
-              "DocumentMoniker": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\Controllers\\Auth.Controller.cs",
-              "RelativeDocumentMoniker": "Controllers\\Auth.Controller.cs",
-              "ToolTip": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\Controllers\\Auth.Controller.cs",
-              "RelativeToolTip": "Controllers\\Auth.Controller.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAMwBoAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T19:48:56.547Z"
+              "Title": "DockerFile",
+              "DocumentMoniker": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\DockerFile",
+              "RelativeDocumentMoniker": "DockerFile",
+              "ToolTip": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\DockerFile",
+              "RelativeToolTip": "DockerFile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-24T22:53:12.313Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AppDbContext.Data.cs",
-              "DocumentMoniker": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\Data\\AppDbContext.Data.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.Data.cs",
-              "ToolTip": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\Data\\AppDbContext.Data.cs",
-              "RelativeToolTip": "Data\\AppDbContext.Data.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAlwFcAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T19:46:47.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LixoReciclado.Model.cs",
-              "DocumentMoniker": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\Models\\LixoReciclado.Model.cs",
-              "RelativeDocumentMoniker": "Models\\LixoReciclado.Model.cs",
-              "ToolTip": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\Models\\LixoReciclado.Model.cs",
-              "RelativeToolTip": "Models\\LixoReciclado.Model.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T19:42:20.933Z"
+              "WhenOpened": "2024-11-24T21:50:32.439Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Usuario.Model.cs",
-              "DocumentMoniker": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\Models\\Usuario.Model.cs",
-              "RelativeDocumentMoniker": "Models\\Usuario.Model.cs",
-              "ToolTip": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\Models\\Usuario.Model.cs",
-              "RelativeToolTip": "Models\\Usuario.Model.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T19:39:11.396Z"
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Evolu\u00E7\u00E3oTech\\AnnyProjects\\RecycleBuilding\\RecycleBuild.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T21:50:23.969Z"
             }
           ]
         }

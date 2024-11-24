@@ -85,7 +85,7 @@ builder.Services.AddCors(options =>
         builder =>
         {
             builder
-                .WithOrigins("http://localhost:4200", "https://seu-site.github.io", "https://localhost:7218")
+                .WithOrigins("http://localhost:4200", "https://yolive.github.io/", "https://localhost:7218")
                 .AllowAnyMethod()
                 .AllowAnyHeader()
                 .AllowCredentials();

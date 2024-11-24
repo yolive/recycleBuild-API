@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecycleBuild.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27dfbbe32d62f17e3a7273e539be032cb0ebf3e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecycleBuild.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecycleBuild.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

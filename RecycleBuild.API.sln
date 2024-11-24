@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecycleBuild.API", "RecycleBuild.API.csproj", "{97234BAE-50F3-4D79-9491-A0C75B320245}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecycleBuild.API", "RecycleBuild.API.csproj", "{97234BAE-50F3-4D79-9491-A0C75B320245}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{EDC6A61D-92A4-4E43-9604-85C1CB4EA663}"
+	ProjectSection(SolutionItems) = preProject
+		DockerFile.txt = DockerFile.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
