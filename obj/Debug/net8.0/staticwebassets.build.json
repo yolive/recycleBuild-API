@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kiNlzXHmieE0zHNjHMHj3eVniK9tQXWM118VfeiBbGw=",
+  "Source": "RecycleBuild.API",
+  "BasePath": "_content/RecycleBuild.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
